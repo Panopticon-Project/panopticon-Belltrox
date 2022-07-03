@@ -11,3 +11,5 @@ https://www.reuters.com/world/israeli-private-detective-used-indian-hackers-job-
 https://www.reuters.com/world/middle-east/israeli-charged-global-hacker-for-hire-scheme-pleads-guilty-2022-04-20/
 
 https://www.reuters.com/article/us-india-cyber-mercenaries-exclusive/exclusive-obscure-indian-cyber-firm-spied-on-politicians-investors-worldwide-idUSKBN23G1GQ
+
+https://www.reuters.com/investigates/special-report/usa-hackers-litigation/
