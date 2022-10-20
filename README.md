@@ -13,3 +13,5 @@ https://www.reuters.com/world/middle-east/israeli-charged-global-hacker-for-hire
 https://www.reuters.com/article/us-india-cyber-mercenaries-exclusive/exclusive-obscure-indian-cyber-firm-spied-on-politicians-investors-worldwide-idUSKBN23G1GQ
 
 https://www.reuters.com/investigates/special-report/usa-hackers-litigation/
+
+https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/?utm_source=substack&utm_medium=email
